@@ -7,7 +7,7 @@ This project serves to demonstrate the ability to collect, work with and clean a
 [The source data is  here available.] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ##Step by Step
-The R script 'run_analysis.R' executes the following steps:
+The R script <mark>run_analysis.R</mark> executes the following steps:
 1. 
 2. 
 3. 

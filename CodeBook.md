@@ -21,7 +21,7 @@ For each record in the dataset it is provided:
 ##Variables
 ###Identifiers
 * `subject` - ID of the test subject
-* `activity` - Type of activity performed when the corresponding measurements were taken
+* `activity` - Type of activity performed when the corresponding measurements were taken (details can be found at the bottom of this page)
 
 ###Key measurements
 Only the measurements concerning the mean or standard deviation are in scope. There are totally 66 variables. Examples are:

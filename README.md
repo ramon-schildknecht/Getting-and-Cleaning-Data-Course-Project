@@ -9,7 +9,7 @@ This project serves to demonstrate the ability to collect, work with and clean a
 ##Step by Step
 The R script `run_analysis.R` executes the following steps:
 
-1. Download the dataset (if it exists not already in the working directory)
+1. Download and unzip the dataset (if it exists not already in the working directory)
 2. Merge similar data using the `rbind()` function. Conditions: Files have the same number of columns and referring to the same entities.
 3. Filter the columns with the mean and standard deviation measures from the whole dataset. First extract these columns, then assign the correct names which taken from `features.txt`.
 4. We take the activity names and IDs (values 1:6) from `activity_labels.txt` and substitute them in the dataset.

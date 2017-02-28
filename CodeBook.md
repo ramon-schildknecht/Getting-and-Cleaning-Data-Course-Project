@@ -19,14 +19,12 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ##Variables
-_to be reviewed_
-
 ###Identifiers
 * `subject` - ID of the test subject
 * `activity` - Type of activity performed when the corresponding measurements were taken
 
 ###Key measurements
-Only the measurements concerning the mean or standard deviation are in scope. Examples are:
+Only the measurements concerning the mean or standard deviation are in scope. There are totally 66 variables. Examples are:
 
 1. "tBodyAcc-mean()-X"
 2. "tBodyAcc-mean()-Y"

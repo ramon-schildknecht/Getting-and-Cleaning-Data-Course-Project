@@ -2,7 +2,7 @@
 
 ##Overview
 
-This project serves to demonstrate the ability to collect, work with and clean a messy data set. The goal is a tidy datasety that can be used for further analysis. A full description of the data used in this project can be found at [The UCI Machine Learning Repository] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This project serves to demonstrate the ability to collect, work with and clean a messy data set. The goal is to reach a tidy datasety that can be used for further analysis. A full description of the data used in this project can be found at [The UCI Machine Learning Repository] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 [The source data is  here available.] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 

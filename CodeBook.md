@@ -27,6 +27,7 @@ _to be reviewed_
 
 ###Key measurements
 Only the measurements concerning the mean or standard deviation are in scope. Examples are:
+
 1. "tBodyAcc-mean()-X"
 2. "tBodyAcc-mean()-Y"
 3. "tBodyAcc-mean()-Z"
@@ -37,7 +38,6 @@ Only the measurements concerning the mean or standard deviation are in scope. Ex
 8. "tGravityAcc-mean()-Y"
 9. "tGravityAcc-mean()-Z"
 10. "tGravityAcc-std()-X"
-
 
 
 ###Activity Labels regarding test

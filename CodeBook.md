@@ -1,7 +1,7 @@
 #Codebook
 
 ##Description
-Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
+Additional information about the variables, data and transformations used in the course project for the Johns Hopkins ["Getting and Cleaning Data"] (https://www.coursera.org/learn/data-cleaning) course.
 
 ##Data Set
 The following explanation is cited from the [data source page] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones):

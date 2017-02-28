@@ -20,4 +20,4 @@ The R script `run_analysis.R` executes the following steps:
 The final output is `tidy_average_activity_subject.txt`. The data set meets the requirements of the paper [Tidy Data from Hadley Wickham] (https://www.jstatsoft.org/article/view/v059i10).
 
 ##Extra Information
-Additional information about variables, transformations and data are specified in the CodeBook.
+Additional information about variables, transformations and data are specified in the [CodeBook] (https://github.com/ramon-schildknecht/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md).

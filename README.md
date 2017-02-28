@@ -17,5 +17,8 @@ The R script `run_analysis.R` executes the following steps:
 6.
 7.
 
+##Output
+The final output is `tidy_average_activity_subject.txt`.
+
 ##Extra Information
 Additional information about variables, transformations and data are specified in the CodeBook.

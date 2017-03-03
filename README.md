@@ -17,7 +17,7 @@ The R script [`run_analysis.R`] (https://github.com/ramon-schildknecht/Getting-a
 6. Generate a new dataset with all the average measures per subject and activity type. There are: 30 subjects * 6 activities = 180 rows The output file is called `averages_data_per_subject_and_activity.txt` and you will find it as example in this directory. When you generate it yourself you will find it in your working directory using `getwd()`
 
 ##Output
-The final output is `tidy_average_activity_subject.txt`. The data set meets the requirements of the paper [Tidy Data from Hadley Wickham] (https://www.jstatsoft.org/article/view/v059i10).
+The final output is [`tidy_average_activity_subject.txt`] (https://github.com/ramon-schildknecht/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_average_activity_subject.txt). The data set meets the requirements of the paper [Tidy Data from Hadley Wickham] (https://www.jstatsoft.org/article/view/v059i10).
 
 ##Extra Information
 Additional information about variables, transformations and data are specified in the [CodeBook] (https://github.com/ramon-schildknecht/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md).
